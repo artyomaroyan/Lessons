@@ -12,3 +12,4 @@
 /Users/artyom_aroyan/Software/C#/Rider/Study/Lessons/obj/Debug/net10.0/Lessons.pdb
 /Users/artyom_aroyan/Software/C#/Rider/Study/Lessons/obj/Debug/net10.0/Lessons.genruntimeconfig.cache
 /Users/artyom_aroyan/Software/C#/Rider/Study/Lessons/obj/Debug/net10.0/ref/Lessons.dll
+/Users/artyom_aroyan/Software/C#/Rider/Study/Lessons/obj/Debug/net10.0/Lessons.sourcelink.json
