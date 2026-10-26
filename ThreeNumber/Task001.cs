@@ -1,11 +1,11 @@
-namespace Lessons;
+namespace Lessons.ThreeNumber;
 
 /*
  * Տրված են իրարից տարբեր a, b c թվերը ։ Կազմել ծրագրեր որոնք
  * 1․ կարտածեն տրված թվերից մեծի արժեքը ։
  */
 
-public abstract class Task001 {
+public static class Task001 {
     public static void Main() {
         
         Console.Write("Enter first number ");
@@ -14,7 +14,7 @@ public abstract class Task001 {
         var b = Convert.ToInt32(Console.ReadLine());
         Console.Out.Write("Enter third number ");
         var c = Convert.ToInt32(Console.ReadLine());
-
+    
         if (a > b && a > c) {
             Console.Out.Write(a + " is biggest");
         } else if (b > a && b > c) {
