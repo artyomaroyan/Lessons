@@ -2,14 +2,10 @@
 
     <PropertyGroup>
         <OutputType>Exe</OutputType>
-        <StartupObject>Lessons.ThreeNumber.Task001</StartupObject>
+        <StartupObject>Lessons.ThreeNumber.Task002</StartupObject>
         <TargetFramework>net10.0</TargetFramework>
         <ImplicitUsings>enable</ImplicitUsings>
         <Nullable>enable</Nullable>
     </PropertyGroup>
-
-    <ItemGroup>
-      <Folder Include="ThreeNumber\" />
-    </ItemGroup>
 
 </Project>
