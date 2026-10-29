@@ -1,5 +1,9 @@
 namespace Lessons.ThreeNumber;
 
+/*
+ * Տրված են իրարից տարբեր a, b c թվերը ։ Կազմել ծրագրեր որոնք
+ * 2․ կարտածեն տրված թվերից փոքրի արժեքը :
+ */
 public static class Task002 {
     public static void Main() {
         Console.WriteLine("Enter first number");
