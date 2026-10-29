@@ -2,7 +2,7 @@
 
     <PropertyGroup>
         <OutputType>Exe</OutputType>
-        <StartupObject>Lessons.ThreeNumber.Task002</StartupObject>
+        <StartupObject>Lessons.ThreeNumber.Task003</StartupObject>
         <TargetFramework>net10.0</TargetFramework>
         <ImplicitUsings>enable</ImplicitUsings>
         <Nullable>enable</Nullable>
