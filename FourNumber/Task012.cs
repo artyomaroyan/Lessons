@@ -1,7 +1,7 @@
 namespace Lessons.FourNumber;
 
 /*
- * Տրված են իրարից տարբեր a, b c թվերը ։ Կազմել ծրագրեր որոնք
+ * Տրված են իրարից տարբեր a, b c և d թվերը ։ Կազմել ծրագրեր որոնք
  * 12. կարտածեն նշված թվերից փոքրագույնի արժեքը
  */
 public class Task012 {
@@ -16,7 +16,6 @@ public class Task012 {
         var d = Convert.ToInt32(Console.ReadLine());
 
         Console.WriteLine($"Result: {Solution(a, b, c, d)}");
-        // Console.WriteLine($"Result: {string.Join(", ", Solution(a, b, c, d))}");
     }
 
     private static int Solution(int a, int b, int c, int d) {
