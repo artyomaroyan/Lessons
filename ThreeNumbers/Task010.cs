@@ -1,4 +1,4 @@
-namespace Lessons.ThreeNumber;
+namespace Lessons.ThreeNumbers;
 
 /*
  * Տրված են իրարից տարբեր a, b c թվերը ։ Կազմել ծրագրեր որոնք
