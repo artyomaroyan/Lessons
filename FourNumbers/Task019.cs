@@ -20,7 +20,7 @@ public class Task019 {
 
     private static int[] Solution(int a, int b, int c, int d) {
         int[] numbers = [a, b, c, d];
-        for (int i = 1; i < numbers.Length; i++) {
+        for (var i = 1; i < numbers.Length; i++) {
             var key = numbers[i];
             var j = i - 1;
 
